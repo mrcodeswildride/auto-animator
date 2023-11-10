@@ -43,6 +43,11 @@ img {
   display: none;
 }
 
+#sidePanel p {
+  max-width: 225px;
+  line-height: 24px;
+}
+
 input {
   width: 150px;
   padding: 5px;
